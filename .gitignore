@@ -1,0 +1,13 @@
+__pycache__
+.vscode
+.aoc_session
+.DS_Store
+
+My Clippings.txt
+quotes_history.txt
+quotes.json
+test.txt
+test.py
+
+notes.md
+TODO.md
